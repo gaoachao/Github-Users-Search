@@ -1,4 +1,4 @@
-# test2
+# Github-Users-Search
 
 ## Project setup
 ```
